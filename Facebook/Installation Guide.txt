@@ -1,0 +1,9 @@
+Please following steps to install mooFacebook solution:
+
+1. Download installation package at client area here https://clients.moosocial.com
+2. Unzip and then upload all files and folders in to your hosting server
+3. Follow the installation steps here https://moosocial.com/knowledge-base/install-moosocial/ to install
+5. Configure your mooFacebook site follow some useful resources here https://moosocial.com/knowledge-base
+
+Please contact us https://moosocial.com/#support if you have any questions.
+ 
